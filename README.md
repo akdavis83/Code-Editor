@@ -1,10 +1,10 @@
-threexplayground
+# threexplayground
 ================
 
 It is a 
 [htmleditor](https://github.com/mrdoob/htmleditor)
 from 
-[mrdoob](http://mrdoob.com).
+[akdavis83]([(https://github.com/akdavis83)]).
 with all 
 [threex](http://jeromeetienne.github.io/threex/)
 [bower](http://bower.io/)
